@@ -1,0 +1,2 @@
+this is the adv dupe version of my hovering portal base save. open the hovering portal base file then put the text document into this folder
+C:\Program Files\Steam\steamapps\your steam name\garrysmod\garrysmod\data\adv_duplicator. and that should be it.
